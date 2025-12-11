@@ -1,4 +1,5 @@
 Dain Jang — AI & Data Science Portfolio (2025)
+
 This repository presents my collection of projects in Deep Learning, Medical AI, PGHD analysis, and Recommendation Systems.
 All projects include preprocessing, modeling, evaluation, and interpretation (XAI) in reproducible Jupyter Notebooks.
 
